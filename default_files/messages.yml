@@ -81,7 +81,7 @@ pve:
     - "&6%d&f was overwhelmed by silverfish"
   enderman:
     - "&8Endermen&f have taken &6%d&f to the nether"
-    - '&6%d&f looked into the eyes of the&8Endermen'
+    - '&6%d&f looked into the eyes of the &8Endermen'
   snowman:
     - '&8Endermen&f have taken &6%d&f to the nether'
   ozelot:
