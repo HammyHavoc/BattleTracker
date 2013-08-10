@@ -92,7 +92,7 @@ pve:
     - '&6%d&f found to use anvils, not stand under them'
   wolf:
     - "&6%d&f was hunted down by the pack"
-    - "&6%d&f was devored by wolves"
+    - "&6%d&f was devoured by wolves"
   giant:
     - "&6%d&f was smashed by a Giant"
     - "A giant has flattened &6%d&f"
