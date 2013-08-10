@@ -89,7 +89,7 @@ pve:
     - '&6%d&f discovered that ocelots have fangs'
   anvil:
     - '&6%d&f was crushed by an anvil'
-    - '&6%d&f found to use anvils, not stand under them'
+    - '&6%d&f found that to use anvils, don't stand under them'
   wolf:
     - "&6%d&f was hunted down by the pack"
     - "&6%d&f was devoured by wolves"
